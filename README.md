@@ -1,3 +1,11 @@
+# opinion-ate
+
+An app for tracking reviews of dishes at differen restaurants
+
+Production: <https://opinion-ate-rociac.netlify.app/>
+
+Dependencies are locked with a `yarn.lock` file, so pleas use `yarn` and not `npm` for installing them.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
